@@ -49,8 +49,6 @@ def load_labels(file_path):
         
             data3.columns = ['Index', 'TextLabel', 'ImageLabel']
         
-            data3.Index
-        
             merged_df2 = pd.merge(combineImageText(images_list, texts_list), data3, on = "Index")
             
             merged_df2.reindex(['Index, RGB-values, ImageLabel, Text, TextLabel'], axis = 1)
