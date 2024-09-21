@@ -1,4 +1,4 @@
-# A fusion approach with Image and Text Data
+# A late fusion approach with Image and Text Data
 - The code files and README are currently being updated. 
 
 ## Description
@@ -10,7 +10,7 @@ A framework of late fusion is show below.
  </p>
 
    
-This respository contains preprocessing methods to the image and text data for the [MVSA-Single dataset](https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/). 
+This respository also contains preprocessing methods to the image and text data for the [MVSA-Single dataset](https://mcrlab.net/research/mvsa-sentiment-analysis-on-multi-view-social-data/). 
 
 
 ## Future Improvements
